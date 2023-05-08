@@ -2,12 +2,11 @@
 ## a dev env for p5js using nextjs
 
 ### features
-  - sketches organizer
-  - gallery
+  - sketches explorer (gallery)
   - sketches options
-  - recorder
-  - social network sharer
-  - sketches exporter
+  - recorder (video and screenshots)
+  - social network sharer (twitter, nft, instagram)
+  - sketches exporter (github pages, html, video)
   - nft creator
   - cli?, or snipepts
   - utils
